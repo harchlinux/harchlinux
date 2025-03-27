@@ -45,4 +45,4 @@
 <br/>
 <br/>
 <br/>
-* click hede to [Downlaod Harch Gnome](https://github.com/harchlinux/harch-gnome/releases/)
+* click hede to [Downlaod Harch Gnome] (https://github.com/harchlinux/harch-gnome/releases/)
