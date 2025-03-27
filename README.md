@@ -45,4 +45,5 @@
 <br/>
 <br/>
 <br/>
-* click hede to [Downlaod Harch Gnome] (https://github.com/harchlinux/harch-gnome/releases/)
+* click here to [Downlaod Harch Gnome](https://github.com/harchlinux/harch-gnome/releases/)
+* [Official Parch forum](https://forum.parchlinux.com)
