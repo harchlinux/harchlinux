@@ -45,4 +45,3 @@
 <br/>
 <br/>
 <br/>
-* click here to [Downlaod] (https://github.com/harchlinux/harch-gnome/releases/)
