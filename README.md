@@ -32,16 +32,15 @@
 <!-- About Section -->
  # About Harch Linux
  
-<p>
- <img align="right" width="400" src="/assets/harch-linux.png"  />
-  
- * &emsp; Beautiful and safe <br/><br/>
- * &emsp; fast and stable <br/><br/>
- * &emsp; Professional design with hacker style based on arch <br/><br/>
- * &emsp; It has special features for gamer user's <br/><br/>
 
+<p style="text-align:center">
+    <img src="/assets/harch-linux.png" alt="harch linux Logo" width="400" height="128"/>
 </p>
 
-<br/>
-<br/>
-<br/>
+[Harch Linux](ttps://github.com/harchlinux) strives to provide the best experience of using an [Arch Linux-based](https://archlinux.org)  distribution. Fast, beautiful, professional, and user-friendly
+
+* Blog Articles on [virgool](https://virgool.io/harchlinux)
+* News Channel on [Telegram](https://t.me/harchlinux)
+
+# download links
+* Harch Linux [GNOME PRO](https://github.com/harchlinux/harch-gnome-pro/tags)
