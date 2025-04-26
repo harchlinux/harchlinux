@@ -44,3 +44,4 @@
 
 # download links
 * Harch Linux [GNOME PRO](https://github.com/harchlinux/harch-gnome-pro/tags)
+* Harch Linux [PLASMA](https://github.com/harchlinux/harch-plasma)
