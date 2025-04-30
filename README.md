@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Hydra-linux+github">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=sorena-linux+github">「 Google Me 」</a>
     <br>
     「 I am a developer from <b>IR</b> 」
     <br>
@@ -34,7 +34,7 @@
  
 
 <p style="text-align:center">
-    <img src="/assets/harch-linux.png" alt="harch linux Logo" width="400" height="128"/>
+    <img src="/assets/sorenalinx.png" alt="harch linux Logo" width="400" height="128"/>
 </p>
 
 [Sorena Linux](ttps://github.com/Sorenalinux) strives to provide the best experience of using an [Arch Linux-based](https://archlinux.org)  distribution. Fast, beautiful, professional, and user-friendly
