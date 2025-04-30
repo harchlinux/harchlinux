@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/miladalizadw">Harch Linux's Developer</a></b>
+                <b><a target="_blank" href="https://github.com/miladalizadw">Zenora Linux's Developer</a></b>
         </samp>
 </h3>
 
@@ -37,11 +37,11 @@
     <img src="/assets/harch-linux.png" alt="harch linux Logo" width="400" height="128"/>
 </p>
 
-[Harch Linux](ttps://github.com/harchlinux) strives to provide the best experience of using an [Arch Linux-based](https://archlinux.org)  distribution. Fast, beautiful, professional, and user-friendly
+[Harch Linux](ttps://github.com/Zenoralinux) strives to provide the best experience of using an [Arch Linux-based](https://archlinux.org)  distribution. Fast, beautiful, professional, and user-friendly
 
-* Blog Articles on [virgool](https://virgool.io/harchlinux)
-* News Channel on [Telegram](https://t.me/harchlinux)
+* Blog Articles on [virgool](https://virgool.io/Zenoralinux)
+* News Channel on [Telegram](https://t.me/Zenoralinux)
 
 # download links
-* Harch Linux [GNOME PRO](https://github.com/harchlinux/harch-gnome-pro/tags)
-* Harch Linux [PLASMA](https://github.com/harchlinux/harch-plasma)
+* Zenora Linux [GNOME PRO](https://github.com/harchlinux/Zenora-gnome-pro/tags)
+* Znora Linux [PLASMA](https://github.com/Zenoralinux/Zenora-plasma)
