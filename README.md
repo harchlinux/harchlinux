@@ -44,4 +44,4 @@
 
 # download links
 * Zenora Linux [GNOME PRO](https://github.com/harchlinux/Zenora-gnome-pro/tags)
-* Znora Linux [PLASMA](https://github.com/Zenoralinux/Zenora-plasma)
+* Zenora Linux [PLASMA](https://github.com/Zenoralinux/Zenora-plasma)
