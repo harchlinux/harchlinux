@@ -43,5 +43,5 @@
 * News Channel on [Telegram](https://t.me/Zenoralinux)
 
 # download links
-* Zenora Linux [GNOME PRO](https://github.com/harchlinux/Zenora-gnome-pro/tags)
-* Zenora Linux [PLASMA](https://github.com/Zenoralinux/Zenora-plasma)
+* Zenora Linux [GNOME PRO](https://github.com/zenoralinux/zenora-gnome-pro)
+* Zenora Linux [PLASMA](https://github.com/zenoralinux/zenora-plasma)
