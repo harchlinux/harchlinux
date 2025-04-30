@@ -30,7 +30,7 @@
 </p>
 
 <!-- About Section -->
- # About Harch Linux
+ # About Zenora Linux
  
 
 <p style="text-align:center">
