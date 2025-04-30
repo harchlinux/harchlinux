@@ -43,5 +43,5 @@
 * News Channel on [Telegram](https://t.me/Sorenalinux)
 
 # download links
-* Zenora Linux [GNOME PRO](https://github.com/Sorenalinux/Sorena-gnome-pro)
-* Zenora Linux [PLASMA](https://github.com/Sorenalinux/Sorena-plasma)
+* Sorena Linux [GNOME PRO](https://github.com/Sorenalinux/Sorena-gnome-pro)
+* Sorena Linux [PLASMA](https://github.com/Sorenalinux/Sorena-plasma)
