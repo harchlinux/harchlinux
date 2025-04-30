@@ -4,7 +4,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://github.com/miladalizadw">Zenora Linux's Developer</a></b>
+                <b><a target="_blank" href="https://github.com/miladalizadw">Sorena Linux's Developer</a></b>
         </samp>
 </h3>
 
@@ -30,18 +30,18 @@
 </p>
 
 <!-- About Section -->
- # About Zenora Linux
+ # About Sorena Linux
  
 
 <p style="text-align:center">
     <img src="/assets/harch-linux.png" alt="harch linux Logo" width="400" height="128"/>
 </p>
 
-[Harch Linux](ttps://github.com/Zenoralinux) strives to provide the best experience of using an [Arch Linux-based](https://archlinux.org)  distribution. Fast, beautiful, professional, and user-friendly
+[Sorena Linux](ttps://github.com/Sorenalinux) strives to provide the best experience of using an [Arch Linux-based](https://archlinux.org)  distribution. Fast, beautiful, professional, and user-friendly
 
-* Blog Articles on [virgool](https://virgool.io/Zenoralinux)
-* News Channel on [Telegram](https://t.me/Zenoralinux)
+* Blog Articles on [virgool](https://virgool.io/Sorenalinux)
+* News Channel on [Telegram](https://t.me/Sorenalinux)
 
 # download links
-* Zenora Linux [GNOME PRO](https://github.com/zenoralinux/zenora-gnome-pro)
-* Zenora Linux [PLASMA](https://github.com/zenoralinux/zenora-plasma)
+* Zenora Linux [GNOME PRO](https://github.com/Sorenalinux/Sorena-gnome-pro)
+* Zenora Linux [PLASMA](https://github.com/Sorenalinux/Sorena-plasma)
